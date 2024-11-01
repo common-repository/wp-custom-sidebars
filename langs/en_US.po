@@ -1,0 +1,224 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Sidebars\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-03-06 18:03+0700\n"
+"PO-Revision-Date: 2017-03-06 18:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: mnmlthms.com <mnmlthms@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/admin/metabox.php:59
+msgid "WP Custom Sidebars Settings"
+msgstr ""
+
+#: ../inc/admin/metabox.php:103
+msgid ""
+"Overidding sidebars as you want, yay! Leave field(s) empty to display "
+"orginal sidebar content."
+msgstr ""
+
+#: ../inc/admin/metabox.php:128 ../inc/admin/taxonomy.php:267
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../inc/admin/metabox.php:159 ../inc/admin/taxonomy.php:298
+#, php-format
+msgid ""
+"Oops, Looks like you switched theme, please go to %s and update Supported "
+"sidebars for your theme"
+msgstr ""
+
+#: ../inc/admin/metabox.php:162 ../inc/admin/settings.php:47
+#: ../inc/admin/taxonomy.php:301
+msgid "Settings"
+msgstr ""
+
+#: ../inc/admin/metabox.php:169 ../inc/admin/taxonomy.php:308
+msgid "No sidebar found!"
+msgstr ""
+
+#: ../inc/admin/settings.php:61 ../inc/admin/settings.php:128
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../inc/admin/settings.php:62
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/admin/settings.php:85
+msgid "WP Custom Sidebars"
+msgstr ""
+
+#: ../inc/admin/settings.php:131
+msgid ""
+"The sidebar name/id are for your use only. It will not be visible to any of "
+"your visitors."
+msgstr ""
+
+#: ../inc/admin/settings.php:133
+msgid ""
+"-To add new sidebar, Enter sidebar name to the below field then click add "
+"sidebar."
+msgstr ""
+
+#: ../inc/admin/settings.php:134
+msgid "-To remove sidebar, click &times; button then confirm."
+msgstr ""
+
+#: ../inc/admin/settings.php:140
+msgid "+ Add sidebar"
+msgstr ""
+
+#: ../inc/admin/settings.php:145
+msgid "Name"
+msgstr ""
+
+#: ../inc/admin/settings.php:146
+msgid "ID"
+msgstr ""
+
+#: ../inc/admin/settings.php:147
+msgid "Remove"
+msgstr ""
+
+#: ../inc/admin/settings.php:154
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../inc/admin/settings.php:177
+msgid "Sidebars data"
+msgstr ""
+
+#: ../inc/admin/settings.php:184
+msgid "Import Data"
+msgstr ""
+
+#: ../inc/admin/settings.php:185
+msgid "You can tranfer the saved sidebars data between different sites."
+msgstr ""
+
+#: ../inc/admin/settings.php:191
+msgid ""
+"-To import sidebar data, just paste your data over textarea and hit import "
+"button."
+msgstr ""
+
+#: ../inc/admin/settings.php:191
+msgid ""
+"-You can also share/transfer sidebar data by copying data from textarea."
+msgstr ""
+
+#: ../inc/admin/settings.php:214
+msgid "Please enter Sidebar name!"
+msgstr ""
+
+#: ../inc/admin/settings.php:215
+msgid ""
+"Are you sure you want to remove this sidebar ?\n"
+"This action will remove any widgets you have assigned to this sidebar.\n"
+"Proceed?"
+msgstr ""
+
+#: ../inc/admin/settings.php:216
+msgid ""
+"The existed sidebars won't be overwritten, only new sidebars (if available) "
+"will be added to the list.\n"
+"Proceed?"
+msgstr ""
+
+#: ../inc/admin/settings.php:237
+msgid "How to use?"
+msgstr ""
+
+#: ../inc/admin/settings.php:300
+msgid "Data has been successfully imported! Refreshing the page..."
+msgstr ""
+
+#: ../inc/admin/settings.php:313
+msgid "Sidebar added!"
+msgstr ""
+
+#: ../inc/admin/settings.php:321
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: ../inc/admin/settings.php:334
+msgid "Sidebar removed!"
+msgstr ""
+
+#: ../inc/admin/settings.php:350
+msgid "Sidebar doesn't exist!"
+msgstr ""
+
+#: ../inc/admin/settings.php:377
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/admin/settings.php:384
+msgid "Post types"
+msgstr ""
+
+#: ../inc/admin/settings.php:394
+msgid "Taxonomies"
+msgstr ""
+
+#: ../inc/admin/settings.php:402
+msgid "Supported Sidebars"
+msgstr ""
+
+#: ../inc/admin/settings.php:467
+msgid ""
+"Select post types you wish to enable WP Custom Sidebars. By default, WP "
+"Custom Sidebars is available for posts only."
+msgstr ""
+
+#: ../inc/admin/settings.php:493
+msgid ""
+"Select Taxonomies you wish to enable WP Custom Sidebars. By default, WP "
+"Custom Sidebars is available for categories."
+msgstr ""
+
+#: ../inc/admin/settings.php:514
+msgid "Your Custom Sidebars:"
+msgstr ""
+
+#: ../inc/admin/settings.php:531
+msgid "Select sidebars you want to support overriding by different pages."
+msgstr ""
+
+#: ../inc/admin/taxonomy.php:32 ../inc/admin/taxonomy.php:33
+msgid "WP Custom Sidebar Settings"
+msgstr ""
+
+#: ../inc/admin/taxonomy.php:34
+msgid ""
+"Overidding sidebars as you want! Leave field(s) empty to display orginal "
+"sidebar content."
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "admin - tag delimiter"
+#~ msgid ","
+#~ msgstr " "
+
+#~ msgctxt "entry tags separator"
+#~ msgid ", "
+#~ msgstr ", "
+
+#, fuzzy
+#~ msgctxt "entry categories separator"
+#~ msgid ", "
+#~ msgstr ", "
